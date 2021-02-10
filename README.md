@@ -20,6 +20,10 @@ pip --isolated install -r requirements.txt
 
 Then run the scripts.
 
+## Docker
+
+TODO: Need a good dockerfile for this.
+
 ## Scripts
 
 - [squisher.py](squisher.py) is a script that will take JSON in any format and output
