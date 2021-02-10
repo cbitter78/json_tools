@@ -1,6 +1,8 @@
 # My JSON Tools
 
-Not novel or original tools are just some scripts I find very useful when working with JSON.
+Not novel or original, but they are mine.  :^)
+
+Just some scripts I find very useful when working with JSON.
 
 ## Running
 
@@ -24,7 +26,7 @@ Then run the scripts.
 it in a squished or minimalist format.  No white space or pritty formatting.
 
 - [bonita.py](bonita.py) is a script that will take a JSON file in any format and output
-  it in a pritty JSON format.
+  it in a pretty JSON format.
 
 ## Contributing
 
